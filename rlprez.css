@@ -17,6 +17,41 @@
 #XqFMwf33 {
 	-webkit-tap-highlight-color: transparent;
 }
+@font-face{
+    font-family: 'TT Fors Trial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('TT Fors Trial'),
+         url('resources/font_0.woff');
+}
+@font-face{
+    font-family: 'TT Fors Trial';
+    font-style: normal;
+    font-weight: 700;
+    src: local('TT Fors Trial Bold'),
+         url('resources/font_1.woff');
+}
+@font-face{
+    font-family: 'TT Fors Trial Black';
+    font-style: normal;
+    font-weight: 900;
+    src: local('TT Fors Trial Black'),
+         url('resources/font_2.woff');
+}
+@font-face{
+    font-family: 'TT Fors Trial Black';
+    font-style: italic;
+    font-weight: 900;
+    src: local('TT Fors Trial Black Italic'),
+         url('resources/font_3.woff');
+}
+@font-face{
+    font-family: 'Tahoma';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Tahoma'),
+         url('resources/font_4.woff');
+}
 
 
 .ap-correct-values-dropbtn:hover {
